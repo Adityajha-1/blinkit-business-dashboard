@@ -61,7 +61,7 @@ The existing process requires communication with multiple stakeholders to retrie
 ## 📁 Files Included
 
 - `BLINKIT.pbix` – Power BI Dashboard file
-- Screenshots and project documentation (optional)
+- Screenshot of Dashboard
 - README.md – Project summary and description
 
 ---
