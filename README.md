@@ -78,17 +78,3 @@ The existing process requires communication with multiple stakeholders to retrie
 
 The dataset used is a simulated representation of Blinkit’s operational data and has been anonymized for project purposes.
 
----
-
-## 📌 Author
-
-**Hrishit Bharadwaj**  
-Data Analytics Enthusiast | Power BI Developer
-
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/hrishit-b-5188951b6/) or reach out for feedback and collaboration.
-
----
-
-## 📄 License
-
-This project is for academic and professional portfolio purposes only. Do not redistribute without permission.
